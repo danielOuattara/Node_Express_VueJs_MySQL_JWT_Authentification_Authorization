@@ -1,0 +1,8 @@
+In this tutorial, we will learn how to build a full stack 
+Node.js Express + Vue.js Authentication example. 
+
+The back-end server uses Node.js Express with jsonwebtoken 
+for JWT authentication and Sequelize for interacting with MySQL 
+database & Authorization. The front-end will be created with 
+Vue and Vuex. We’ll also use vee-validate to perform Form 
+validation and vue-fontawesome for make our UI more comfortable to view.
